@@ -1,0 +1,15 @@
+{
+  "name": "copilot-components",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "@condenast/platform-styleguide": "*",
+    "@condenast/copilot-theme": "*",
+    "@condenast/hbs-module-transform": "*",
+    "ember-changeset": "*",
+    "ember-cli-htmlbars": "*",
+    "ember-cli-sass": "*",
+    "ember-component-css": "*"
+  }
+}
