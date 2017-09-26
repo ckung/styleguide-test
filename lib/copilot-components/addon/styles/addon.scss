@@ -1,5 +1,6 @@
-@import 'pod-styles';
+@import '@condenast/platform-styleguide/src/styles/extensions';
+@import '@condenast/platform-styleguide/src/styles/config/foundation/colors/index-colors';
+@import '@condenast/platform-styleguide/src/styles/config/foundation/breakpoints/variables-breakpoints';
+@import '@condenast/platform-styleguide/src/styles/config/layout/index-layout';
 
-body {
-  @debug 'hello world';
-}
+@import 'pod-styles';
